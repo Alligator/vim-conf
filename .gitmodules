@@ -37,3 +37,6 @@
 [submodule "L9"]
 	path = L9
 	url = https://github.com/vim-scripts/L9.git
+[submodule "jQuery"]
+	path = jQuery
+	url = https://github.com/vim-scripts/jQuery.git
