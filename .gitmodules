@@ -40,3 +40,9 @@
 [submodule "JavaScript-syntax"]
 	path = JavaScript-syntax
 	url = https://github.com/vim-scripts/JavaScript-syntax.git
+[submodule "vim-css3-syntax"]
+	path = vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less.git
