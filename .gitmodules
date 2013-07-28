@@ -37,9 +37,6 @@
 [submodule "jQuery"]
 	path = jQuery
 	url = https://github.com/vim-scripts/jQuery.git
-[submodule "JavaScript-syntax"]
-	path = JavaScript-syntax
-	url = https://github.com/vim-scripts/JavaScript-syntax.git
 [submodule "vim-css3-syntax"]
 	path = vim-css3-syntax
 	url = https://github.com/hail2u/vim-css3-syntax.git
